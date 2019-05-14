@@ -1,9 +1,9 @@
 <?php
 
-namespace Xyz\FirstComposer\Tests;
+namespace XyzQ\FirstComposer\Tests;
 
 use PHPUnit\Framework\TestCase;
-use Xyz\FirstComposer\Client;
+use XyzQ\FirstComposer\Client;
 
 class ClientTest extends TestCase
 {

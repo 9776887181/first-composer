@@ -1,6 +1,6 @@
 <?php
 
-namespace Xyz\FirstComposer;
+namespace XyzQ\FirstComposer;
 
 class Client
 {

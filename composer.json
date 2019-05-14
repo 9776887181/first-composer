@@ -1,23 +1,23 @@
 {
-    "name": "xyz/first-composer",
+    "name": "xyz-q/first-composer",
     "description": "This is a test.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "xyz",
+            "name": "xyz-q",
             "email": "q9776887181@gmail.com"
         }
     ],
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Xyz\\FirstComposer\\": "src/"
+            "XyzQ\\FirstComposer\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Xyz\\FirstComposer\\Tests\\": "tests/"
+            "XyzQ\\FirstComposer\\Tests\\": "tests/"
         }
     },
     "require-dev": {
