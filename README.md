@@ -1,1 +1,1 @@
-php composer 开发、发布测试
+php composer learn test
