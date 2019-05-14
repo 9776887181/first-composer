@@ -18,4 +18,9 @@ class Client
     {
         return $this->a + $this->b;
     }
+
+    public function version()
+    {
+        return 'v1.0';
+    }
 }
