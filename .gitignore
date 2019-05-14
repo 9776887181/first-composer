@@ -1,2 +1,5 @@
-./vendor/
-./composer.lock
+# Other
+/vendor
+
+# Composer lock file
+/composer.lock
